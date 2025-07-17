@@ -1,0 +1,5642 @@
+[
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Batteries",
+    "tonnage": "0.82"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "36.86"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "28.42"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Cartouches",
+    "tonnage": "0.04"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "1.34"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "134.00"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "14.82"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "1.55"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "103.90"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "18.90"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "29.56"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Néons",
+    "tonnage": "0.07"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "225.44"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.40"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "28.04"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "17.00"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "Cartouches",
+    "tonnage": "0.02"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "3.86"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "104.40"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "6.55"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "0.27"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "51.26"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "18.90"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "137.62"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "61.60"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "42.18"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Cartouches",
+    "tonnage": "0.06"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "3.66"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "164.11"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "23.32"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "2.21"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "75.14"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Lampes",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "18.90"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "42.22"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Néons",
+    "tonnage": "0.14"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "243.00"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.80"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "38.46"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "22.34"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "35.30"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "Cartouches",
+    "tonnage": "0.02"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "4.37"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "245.42"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "15.27"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "1.22"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "235.42"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "18.90"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "37.04"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "165.74"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "23.10"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "24.94"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "22.60"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "Cartouches",
+    "tonnage": "0.02"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "1.90"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "172.50"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "11.83"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "0.72"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "437.84"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "18.90"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "29.12"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "109.76"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "25.40"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "25.76"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "Cartouches",
+    "tonnage": "0.04"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "3.10"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "61.14"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "10.71"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "1.37"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "36.08"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "18.90"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "157.96"
+  },
+  {
+    "mois": "Janvier",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Batteries",
+    "tonnage": "0.78"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "52.14"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "22.78"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Cartouches",
+    "tonnage": "0.05"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "2.52"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "197.56"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "16.90"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "1.05"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "249.98"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "21.78"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "32.16"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "203.60"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Février",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.63"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "32.38"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "14.28"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "Cartouches",
+    "tonnage": "0.00"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "2.49"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "141.28"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "6.76"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "0.30"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "109.64"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "Lampes",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "21.78"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "131.94"
+  },
+  {
+    "mois": "Février",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Batteries",
+    "tonnage": "0.98"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "51.40"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "39.40"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Cartouches",
+    "tonnage": "0.08"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "3.74"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "226.72"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "19.36"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "0.71"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "102.90"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "21.78"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "45.02"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "244.68"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Pneus",
+    "tonnage": "6.00"
+  },
+  {
+    "mois": "Février",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.63"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "38.74"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "10.96"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "23.16"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Cartouches",
+    "tonnage": "0.03"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "3.25"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "247.94"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "13.59"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "2.02"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "243.42"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "21.78"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "40.22"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Néons",
+    "tonnage": "0.11"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "179.28"
+  },
+  {
+    "mois": "Février",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "26.30"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "21.08"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "16.50"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "Cartouches",
+    "tonnage": "0.02"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "1.89"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "202.84"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "12.22"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "641.50"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "21.78"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "26.14"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "95.38"
+  },
+  {
+    "mois": "Février",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "18.38"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "19.56"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "Cartouches",
+    "tonnage": "0.06"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "2.94"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "91.54"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "11.59"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "0.57"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "49.76"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "21.78"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "Néons",
+    "tonnage": "0.14"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "137.54"
+  },
+  {
+    "mois": "Février",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Batteries",
+    "tonnage": "0.68"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "61.04"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "23.36"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "2.27"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "208.98"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "16.46"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "2.09"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "280.94"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Lampes",
+    "tonnage": "0.14"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "24.38"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "36.89"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "248.74"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Pneus",
+    "tonnage": "4.64"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.80"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "31.46"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "22.46"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "3.86"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "147.72"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "8.64"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "1.05"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "109.90"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "24.38"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "Néons",
+    "tonnage": "0.08"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "152.54"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "58.78"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "40.08"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "3.18"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "216.32"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "20.63"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "1.53"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "138.28"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "24.38"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "48.46"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "Néons",
+    "tonnage": "0.11"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "275.02"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.80"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "40.30"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "0.0"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "22.14"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "2.85"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "258.36"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "12.99"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "2.02"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "318.38"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Lampes",
+    "tonnage": "0.12"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "24.38"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "40.70"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Néons",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "155.70"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "37.52"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "13.98"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "26.10"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "1.83"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "265.86"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "11.12"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "0.71"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "563.38"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "24.38"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "31.01"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "Néons",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "130.44"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "19.94"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "20.42"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "Cartouches",
+    "tonnage": "0.05"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "2.96"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "98.94"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "9.80"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "1.72"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "59.98"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "Lampes",
+    "tonnage": "0.10"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "24.38"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "166.44"
+  },
+  {
+    "mois": "Mars",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "Batteries",
+    "tonnage": "0.98"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "72.84"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "23.10"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "2.70"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "342.94"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "17.07"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "1.68"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "170.46"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "24.62"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "36.44"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "201.92"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.50"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "32.92"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "22.00"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "Cartouches",
+    "tonnage": "0.05"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "3.31"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "202.42"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "9.58"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "0.42"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "96.48"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "24.62"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "131.72"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Batteries",
+    "tonnage": "1.36"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "67.84"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "42.56"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Cartouches",
+    "tonnage": "0.74"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "4.28"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "312.10"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "17.89"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "1.22"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "194.48"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Lampes",
+    "tonnage": "0.15"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "24.62"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "43.10"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "271.94"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.50"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "60.15"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "26.72"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "35.26"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Cartouches",
+    "tonnage": "0.05"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Cartouches",
+    "tonnage": "0.06"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "3.75"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "373.56"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "12.58"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "1.65"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "242.68"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "24.62"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "32.62"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Néons",
+    "tonnage": "0.06"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "167.94"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "35.18"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "22.30"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "22.80"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Cartouches",
+    "tonnage": "0.03"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "3.23"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "313.78"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "11.84"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "0.51"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "395.48"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Lampes",
+    "tonnage": "0.12"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "24.62"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "32.68"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "115.96"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "27.70"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "20.74"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "Cartouches",
+    "tonnage": "0.00"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "3.08"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "156.10"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "11.96"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "1.41"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "60.04"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "24.62"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "132.22"
+  },
+  {
+    "mois": "Avril",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Batteries",
+    "tonnage": "1.46"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "50.00"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "29.12"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Cartouches",
+    "tonnage": "0.06"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "2.56"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "363.52"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "18.94"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "2.10"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "174.06"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "27.36"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "36.26"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Néons",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "212.76"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.55"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "37.64"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "29.66"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "Cartouches",
+    "tonnage": "0.03"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "3.49"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "257.90"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "9.32"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "0.78"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "95.48"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "27.36"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "122.52"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "71.48"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "49.04"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Cartouches",
+    "tonnage": "0.08"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "5.14"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "397.32"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "21.67"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "1.06"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "192.60"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "27.36"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "45.88"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Néons",
+    "tonnage": "0.10"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "245.96"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.55"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "45.92"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "20.14"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "23.38"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "Cartouches",
+    "tonnage": "0.03"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "4.25"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "399.36"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "15.53"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "1.31"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "289.36"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "27.4"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "38.28"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "165.92"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "33.90"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "15.26"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "32.96"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "Cartouches",
+    "tonnage": "0.03"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "2.85"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "442.16"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "14.38"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "0.94"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "467.42"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "27.36"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "37.72"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "133.28"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "26.68"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "15.44"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "Cartouches",
+    "tonnage": "0.04"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "2.94"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "205.06"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "10.31"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "1.31"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "76.62"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "27.36"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "Néons",
+    "tonnage": "0.11"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "140.02"
+  },
+  {
+    "mois": "Mai",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "50.46"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "28.54"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "3.41"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "287.98"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "16.34"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "0.80"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "238.32"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "Lampes",
+    "tonnage": "0.11"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "22.34"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "32.08"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "185.82"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "1.20"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "36.60"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "27.94"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "3.90"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "203.22"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "9.17"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "0.34"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "133.02"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "Lampes",
+    "tonnage": "0.11"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "22.34"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "Mobilier",
+    "tonnage": "21.90"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "Néons",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "99.74"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "73.78"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "47.20"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "5.05"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "281.46"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "17.86"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "1.11"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "198.20"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "22.34"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "42.46"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "269.76"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "Pneus",
+    "tonnage": "5.96"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.80"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "46.72"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "0.00"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "28.62"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "3.84"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "321.22"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "12.98"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "2.02"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "220.84"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Lampes",
+    "tonnage": "0.15"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "22.34"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "30.70"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Néons",
+    "tonnage": "0.10"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "124.98"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "34.42"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "0.00"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "27.00"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "3.44"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "294.44"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "13.07"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "0.65"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "471.56"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "22.34"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "32.02"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "Néons",
+    "tonnage": "0.10"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "104.78"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "44.66"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "21.16"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "3.52"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "134.24"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "10.59"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "0.66"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "37.36"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "22.34"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "122.20"
+  },
+  {
+    "mois": "Juin",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Batteries",
+    "tonnage": "0.79"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "66.96"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "31.68"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Cartouches",
+    "tonnage": "0.05"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "3.49"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "276.58"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "20.46"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "4.10"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "162.50"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "30.07"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "44.22"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "166.38"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "2.18"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "39.26"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "31.94"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "Cartouches",
+    "tonnage": "0.04"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "3.32"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "223.82"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "12.47"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "1.19"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "55.04"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "30.07"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "Mobilier",
+    "tonnage": "30.08"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "107.68"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Batteries",
+    "tonnage": "0.78"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "70.04"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "51.14"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Cartouches",
+    "tonnage": "0.07"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "4.78"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "283.98"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "20.95"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "2.38"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "128.28"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Lampes",
+    "tonnage": "0.14"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "30.07"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "41.48"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Néons",
+    "tonnage": "0.11"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "231.32"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "2.18"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "61.98"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "12.84"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "28.78"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "Cartouches",
+    "tonnage": "0.06"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "3.24"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "319.84"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "15.44"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "2.25"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "197.62"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "30.07"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "39.18"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "149.48"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "38.14"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "17.00"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "38.84"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "Cartouches",
+    "tonnage": "0.05"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "2.38"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "322.22"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "16.04"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "1.39"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "286.60"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "30.07"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "31.44"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "117.32"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "45.34"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "20.62"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "Cartouches",
+    "tonnage": "0.00"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "3.26"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "141.02"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "11.84"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "1.46"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "54.58"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "Lampes",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "30.07"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "138.22"
+  },
+  {
+    "mois": "Juillet",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Batteries",
+    "tonnage": "1.88"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "67.70"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "29.78"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Cartouches",
+    "tonnage": "0.04"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "4.47"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "345.44"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "22.28"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "2.65"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "189.60"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "30.49"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "43.16"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Néons",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "198.84"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Pneus",
+    "tonnage": "5.92"
+  },
+  {
+    "mois": "Août",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "1.16"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "26.94"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "39.62"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "Cartouches",
+    "tonnage": "0.06"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "2.96"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "273.50"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "13.77"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "0.84"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "37.74"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "30.49"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "Mobilier",
+    "tonnage": "32.20"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "91.40"
+  },
+  {
+    "mois": "Août",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Batteries",
+    "tonnage": "0.93"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "56.74"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "46.70"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Cartouches",
+    "tonnage": "0.14"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "3.69"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "305.44"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "24.67"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "1.98"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "93.68"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "30.49"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "49.46"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "222.32"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Août",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "1.15"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "54.76"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "13.86"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "30.24"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "Cartouches",
+    "tonnage": "0.03"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "2.18"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "407.68"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "18.59"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "3.16"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "193.96"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "30.49"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "44.96"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "145.66"
+  },
+  {
+    "mois": "Août",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "43.54"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "44.08"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "Cartouches",
+    "tonnage": "0.04"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "1.62"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "292.44"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "16.90"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "1.85"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "271.34"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "Lampes",
+    "tonnage": "0.11"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "30.49"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "32.19"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "99.22"
+  },
+  {
+    "mois": "Août",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "48.10"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "25.12"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "Cartouches",
+    "tonnage": "0.04"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "2.91"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "198.52"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "15.85"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "1.96"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "54.42"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "30.49"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "138.46"
+  },
+  {
+    "mois": "Août",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Batteries",
+    "tonnage": "0.76"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "49.38"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "25.60"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "4.91"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "339.52"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "20.27"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "2.98"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "205.38"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Lampes",
+    "tonnage": "0.12"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "21.95"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "44.26"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "167.28"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.80"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "32.32"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "18.12"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "7.07"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "246.26"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "12.07"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "0.53"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "119.96"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "Lampes",
+    "tonnage": "0.11"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "21.95"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "Mobilier",
+    "tonnage": "28.76"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "120.98"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Batteries",
+    "tonnage": "0.86"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "83.38"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "38.56"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "7.32"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "327.62"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "18.96"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "1.50"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "182.54"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "21.95"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "44.52"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Néons",
+    "tonnage": "0.11"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "230.12"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Pneus",
+    "tonnage": "5.20"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.80"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "46.68"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "25.76"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "24.88"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "5.99"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "425.20"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "15.43"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "1.90"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "220.24"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Lampes",
+    "tonnage": "0.12"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "21.95"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "36.16"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Néons",
+    "tonnage": "0.07"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "135.24"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "27.74"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "22.16"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "22.22"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "4.56"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "316.97"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "13.70"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "1.25"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "556.38"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "21.95"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "37.56"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "93.92"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "39.52"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "18.18"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "5.09"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "173.48"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "10.58"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "1.54"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "78.30"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "21.95"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "Néons",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "125.74"
+  },
+  {
+    "mois": "Septembre",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Batteries",
+    "tonnage": "0.68"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "44.88"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "20.50"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Cartouches",
+    "tonnage": "0.05"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "4.67"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "317.66"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "19.51"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "1.80"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "177.24"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "25.27"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "47.86"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Néons",
+    "tonnage": "0.08"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "183.60"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "1.24"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "30.80"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "16.76"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "Cartouches",
+    "tonnage": "0.08"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "3.31"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "243.06"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "8.83"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "0.39"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "122.88"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "Lampes",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "25.27"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "Mobilier",
+    "tonnage": "30.44"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "117.44"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Batteries",
+    "tonnage": "0.78"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "56.24"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "39.64"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Cartouches",
+    "tonnage": "0.08"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "5.13"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "300.62"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "21.87"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "1.25"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "134.12"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "25.27"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "48.33"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "245.56"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "1.24"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "44.86"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "22.60"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "Cartouches",
+    "tonnage": "0.05"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "3.34"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "458.08"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "15.48"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "2.45"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "247.48"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "25.27"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "36.96"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "156.80"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "36.72"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "26.60"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "18.98"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Cartouches",
+    "tonnage": "0.03"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "1.08"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "293.86"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "11.55"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "0.42"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "378.56"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "25.27"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "31.09"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Néons",
+    "tonnage": "0.10"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "130.12"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "37.10"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "21.54"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "Cartouches",
+    "tonnage": "0.06"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "2.34"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "166.64"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "11.77"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "10.87"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "1.16"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "57.90"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "25.27"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "140.76"
+  },
+  {
+    "mois": "Octobre",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "50.18"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "22.70"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "Cartouches",
+    "tonnage": "0.04"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "1.77"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "328.70"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "14.25"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "1.92"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "133.44"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "18.86"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "32.82"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "190.52"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.70"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "36.36"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "15.16"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "Cartouches",
+    "tonnage": "0.03"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "3.29"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "303.02"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "7.57"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "0.39"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "54.44"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "18.86"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "Mobilier",
+    "tonnage": "22.10"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "130.60"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Batteries",
+    "tonnage": "0.88"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "70.30"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "36.60"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "4.00"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "335.86"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "19.78"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "1.74"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "113.52"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Lampes",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "18.86"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "41.42"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "223.80"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.70"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "45.98"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "16.00"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "24.92"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "3.27"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "420.33"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "15.89"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "1.38"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "132.74"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "18.86"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "28.08"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "133.44"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "29.62"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "27.56"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "20.74"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "2.36"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "332.00"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "11.15"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "0.89"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "491.38"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "18.86"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "30.60"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "111.10"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "35.40"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "17.28"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "Cartouches",
+    "tonnage": "0.03"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "2.68"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "151.02"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "1.42"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "53.34"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "Lampes",
+    "tonnage": "0.11"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "18.86"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "128.54"
+  },
+  {
+    "mois": "Novembre",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Bois",
+    "tonnage": "36.98"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Carton",
+    "tonnage": "25.06"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Déchets Verts",
+    "tonnage": "182.46"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "DEEE",
+    "tonnage": "15.58"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "ECODDS",
+    "tonnage": "1.24"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Gravats",
+    "tonnage": "102.92"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Lampes",
+    "tonnage": "0.12"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Métaux",
+    "tonnage": "18.35"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Mobilier",
+    "tonnage": "30.14"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Néons",
+    "tonnage": "0.08"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Non valorisable",
+    "tonnage": "150.04"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Piles",
+    "tonnage": "0.17"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.86"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "Bois",
+    "tonnage": "17.48"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "Carton",
+    "tonnage": "18.76"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "Déchets Verts",
+    "tonnage": "180.90"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "DEEE",
+    "tonnage": "8.41"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "ECODDS",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "Gravats",
+    "tonnage": "68.60"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "Lampes",
+    "tonnage": "0.18"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "Métaux",
+    "tonnage": "18.35"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "Mobilier",
+    "tonnage": "18.34"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "Non valorisable",
+    "tonnage": "109.10"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "Piles",
+    "tonnage": "0.16"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Bois",
+    "tonnage": "56.38"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Carton",
+    "tonnage": "38.70"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Déchets Verts",
+    "tonnage": "188.68"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "DEEE",
+    "tonnage": "17.34"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "ECODDS",
+    "tonnage": "0.73"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Gravats",
+    "tonnage": "89.84"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Métaux",
+    "tonnage": "18.35"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Mobilier",
+    "tonnage": "44.06"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Néons",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Non valorisable",
+    "tonnage": "175.66"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Piles",
+    "tonnage": "0.22"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Pneus Aliapur",
+    "tonnage": "0.86"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Bois",
+    "tonnage": "40.34"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Briques Platrières",
+    "tonnage": "14.68"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Carton",
+    "tonnage": "28.18"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Déchets Verts",
+    "tonnage": "279.74"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "DEEE",
+    "tonnage": "11.10"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "ECODDS",
+    "tonnage": "1.61"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Gravats",
+    "tonnage": "209.26"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Métaux",
+    "tonnage": "18.35"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Mobilier",
+    "tonnage": "36.22"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Néons",
+    "tonnage": "0.10"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Non valorisable",
+    "tonnage": "119.72"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Piles",
+    "tonnage": "0.19"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "Bois",
+    "tonnage": "24.46"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "Briques Platrières",
+    "tonnage": "22.12"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "Carton",
+    "tonnage": "16.58"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "Déchets Verts",
+    "tonnage": "190.18"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "DEEE",
+    "tonnage": "10.12"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "ECODDS",
+    "tonnage": "0.37"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "Gravats",
+    "tonnage": "355.18"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "Lampes",
+    "tonnage": "0.12"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "Métaux",
+    "tonnage": "18.35"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "Mobilier",
+    "tonnage": "35.20"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "Non valorisable",
+    "tonnage": "102.24"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "Piles",
+    "tonnage": "0.13"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "Cartouches",
+    "tonnage": "0.08"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "Cartouches",
+    "tonnage": "0.03"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "Bois",
+    "tonnage": "37.40"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "Carton",
+    "tonnage": "22.78"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "Déchets Verts",
+    "tonnage": "82.70"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Carnac",
+    "flux": "DDS",
+    "tonnage": "3.65"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "DDS",
+    "tonnage": "2.84"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "DDS",
+    "tonnage": "2.27"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Belz",
+    "flux": "Batteries",
+    "tonnage": "1.42"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Crach",
+    "flux": "DDS",
+    "tonnage": "3.23"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Pluvigner",
+    "flux": "DDS",
+    "tonnage": "3.43"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Quiberon",
+    "flux": "DDS",
+    "tonnage": "0.91"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "DEEE",
+    "tonnage": "10.12"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "ECODDS",
+    "tonnage": "0.43"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "Gravats",
+    "tonnage": "33.54"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "Lampes",
+    "tonnage": "0.12"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "Métaux",
+    "tonnage": "18.35"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "Non valorisable",
+    "tonnage": "124.02"
+  },
+  {
+    "mois": "Décembre",
+    "dct": "Saint-Anne",
+    "flux": "Piles",
+    "tonnage": "0.09"
+  },
+  {
+    "mois": "",
+    "dct": "",
+    "flux": "",
+    "tonnage": ""
+  }
+]
