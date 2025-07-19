@@ -1,7 +1,6 @@
 import json 
 
 with open("tonnages2023.json", "r") as f: 
-
     data_tonnage2023 = json.load(f)
 
 data_test = [
