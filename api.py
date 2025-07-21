@@ -1,5 +1,6 @@
-from fastapi import Depends, FastAPI, HTTPException, Query
+from fastapi import Depends, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+
 from sqlmodel import Session, select
 from sqlalchemy.orm import selectinload
 from typing import Annotated, List
@@ -29,9 +30,11 @@ app.add_middleware(
 async def root():
     return {"message": "Hello World"}
 
+#Retourne les tonnages de toutes les dct
 @app.get("/tonnages/", response_model=List[TonnageRead])
 def read_tonnages(session: Session = Depends(get_session)):
     statement = select(Tonnage).options(selectinload(Tonnage.dct), selectinload(Tonnage.flux))
     results = session.exec(statement).all()
     return results
+
 

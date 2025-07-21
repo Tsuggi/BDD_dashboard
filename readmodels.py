@@ -1,5 +1,7 @@
 from sqlmodel import SQLModel
+
 from models import EnumMonth, EnumDct, EnumFlux
+
 
 class DctRead(SQLModel):
     dct: EnumDct
@@ -13,5 +15,3 @@ class TonnageRead(SQLModel):
     tonnage: float
     dct: DctRead
     flux: FluxRead
-    
-    

@@ -1,7 +1,8 @@
-from enum import Enum
 from sqlmodel import Field, SQLModel, Session, Relationship, select
+
+from enum import Enum
+
 from db import engine
-from data import data_test
 
 class EnumMonth(str, Enum):
         janvier = "Janvier"
@@ -168,13 +169,13 @@ def create_flux():
         
         session.commit()
 
-def create_tonnage():
+def create_tonnage(data):
     with Session(engine) as session:
-        for data in data_test:
+        for data in data:
             tonnage_test = Tonnage(
-                year = 2023, 
+                year = data["year"], 
                 month = data['mois'], 
-                tonnage= data['tonnage'], 
+                tonnage = data['tonnage'], 
                 flux = session.exec(select(Flux).where(Flux.flux == data['flux'])).first(), 
                 dct = session.exec(select(Dct).where(Dct.dct == data['dct'])).first()
             )
