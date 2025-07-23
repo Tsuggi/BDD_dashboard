@@ -38,3 +38,8 @@ def read_tonnages(session: Session = Depends(get_session)):
     return results
 
 
+@app.get("/tonnages/{year}", response_model=List[TonnageRead])
+async def get_tonnage_year(year: int, session: Session = Depends(get_session)):
+    statement = select(Tonnage).where(Tonnage.year == year)
+    results = session.exec(statement).all()
+    return results

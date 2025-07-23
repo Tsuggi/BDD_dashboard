@@ -174,7 +174,7 @@ def create_tonnage(data):
         for data in data:
             tonnage_test = Tonnage(
                 year = data["year"], 
-                month = data['mois'], 
+                month = data['month'], 
                 tonnage = data['tonnage'], 
                 flux = session.exec(select(Flux).where(Flux.flux == data['flux'])).first(), 
                 dct = session.exec(select(Dct).where(Dct.dct == data['dct'])).first()
