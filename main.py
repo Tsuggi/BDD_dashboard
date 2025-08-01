@@ -1,6 +1,7 @@
 from sqlmodel import SQLModel
 
 from models import create_tonnage, create_dct, create_flux
+from taskmodel import create_tasks
 from db import engine 
 
 
@@ -14,3 +15,4 @@ if __name__ == "__main__":
     create_dct()
     create_flux()
     create_tonnage(data_tonnage20232024)
+    create_tasks()
