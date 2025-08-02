@@ -1,4 +1,4 @@
-from fastapi import Depends, FastAPI
+from fastapi import Depends, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
 from sqlmodel import Session, select
@@ -55,4 +55,33 @@ async def create_task(task: Task, session: Session = Depends(get_session)):
     session.add(task)
     session.commit()
     session.refresh(task)
+    return task
+
+#Supprime task
+@app.delete("/tasks/{id}")
+async def delete_task(id: int, session: Session = Depends(get_session)):
+    task = session.get(Task, id)
+    if not task:
+        raise HTTPException(status_code=404, detail="Tâche introuvable")   
+    
+    session.delete(task)
+    session.commit()
+    return {"message": f"Tâche {id} supprimée"}
+
+#MAJ task 
+@app.patch("/tasks/{task_id}")
+def update_task(task_id: int, task_update: Task, session: Session = Depends(get_session)):
+    task = session.get(Task, task_id)
+    if not task:
+        raise HTTPException(status_code=404, detail="Tâche non trouvée")
+
+    # Appliquer les changements uniquement sur les champs fournis
+    task_data = task_update.model_dump(exclude_unset=True)
+    for key, value in task_data.items():
+        setattr(task, key, value)
+
+    session.add(task)
+    session.commit()
+    session.refresh(task)
+
     return task
